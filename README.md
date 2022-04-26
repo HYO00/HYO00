@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @HYO00
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Js, React, ml5
+- 🌱 I’m currently learning Js, React, ,vue, threejs, ml5
 - 💞️ I’m looking to collaborate on Real life projects
 - 📫 How to reach me hyo02222@gmail.com
 
